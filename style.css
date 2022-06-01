@@ -1,0 +1,30 @@
+.card-thumbnail {
+    max-height: 250px;
+    overflow: hidden;
+}
+
+h2{
+    color: black;
+}
+
+.s1background {
+    background-color: #222831;
+    color: whitesmoke;
+}
+
+.s2background {
+    background-color: #393e46;
+    color: whitesmoke;
+}
+
+.s3background {
+    background-color: #eeeeee;
+    color: #393e46;
+}
+
+
+
+.contactbackground {
+background-color: #00adb5;
+    color: whitesmoke;
+}
